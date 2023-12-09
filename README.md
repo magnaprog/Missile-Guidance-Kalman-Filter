@@ -11,6 +11,16 @@ This MATLAB project simulates a missile guidance system using a Kalman filter to
 - **IR Sensor:** Incorporates an Infrared sensor to provide distance measurements between the missile and the target.
 - **3D Visualization:** Displays the missile's trajectory and target motion in a 3D plot for better understanding.
 
+## Examples
+
+![MissileGuidanceKF](MissileGuidanceKF.png)
+
+*Figure 1: Missile Guidance with Kalman Filter*
+
+![True_and_Estimated](True_and_Estimated.png)
+
+*Figure 2: True and Estimated Missile Position and Velocity*
+
 ## Usage
 
 1. **Clone the Repository:**
